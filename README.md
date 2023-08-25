@@ -1,4 +1,4 @@
-# Backtracking Fortran proyects
+# Backtracking Fortran projects
 This collection of projects delves into the fascinating realm of algorithmic problem-solving using the backtracking technique. Backtracking is a powerful strategy that involves exploring and navigating through a search space to find solutions efficiently.
  
 # What is Backtracking?
